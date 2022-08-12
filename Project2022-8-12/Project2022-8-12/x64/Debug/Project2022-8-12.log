@@ -1,0 +1,8 @@
+﻿  test.c
+F:\c代码\Project2022-8-12\Project2022-8-12\test.c(79,6): warning C4101: “sqrt”: 未引用的局部变量
+F:\c代码\Project2022-8-12\Project2022-8-12\test.c(77,6): warning C4101: “sin”: 未引用的局部变量
+F:\c代码\Project2022-8-12\Project2022-8-12\test.c(78,6): warning C4101: “cos”: 未引用的局部变量
+F:\c代码\Project2022-8-12\Project2022-8-12\test.c(73,6): warning C4101: “_123”: 未引用的局部变量
+F:\c代码\Project2022-8-12\Project2022-8-12\test.c(75,6): warning C4101: “Struct”: 未引用的局部变量
+F:\c代码\Project2022-8-12\Project2022-8-12\test.c(74,6): warning C4101: “scanf”: 未引用的局部变量
+  Project2022-8-12.vcxproj -> F:\c代码\Project2022-8-12\x64\Debug\Project2022-8-12.exe
